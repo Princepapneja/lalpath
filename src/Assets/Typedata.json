@@ -1,0 +1,80 @@
+[
+    {"type_id":"1", 
+    "type_name":"Report Related",
+    "subtype":[
+
+        {"subtype_id":"7", 
+        "subtype_name":"Complaint",
+        "type_id":"1"}
+    ]},
+
+    {"type_id":"2", 
+    "type_name":"Home Collection",
+    "subtype":[
+
+        {"subtype_id":"8", 
+        "subtype_name":"Booking Request",
+        "type_id":"2"},
+
+        {"subtype_id":"9", 
+        "subtype_name":"Technician not reached",
+        "type_id":"2"},
+
+        {"subtype_id":"10", 
+        "subtype_name":"Complaint",
+        "type_id":"2"}
+    ]},
+
+    {"type_id":"3", 
+    "type_name":"Website Related",
+    "subtype":[
+
+        {"subtype_id":"11", 
+        "subtype_name":"Unable to Login",
+        "type_id":"3"}
+    ]},
+
+    {"type_id":"4", 
+    "type_name":"Payment Related",
+    "subtype":[
+
+        {"subtype_id":"12", 
+        "subtype_name":"Incorrect invoice",
+        "type_id":"4"}
+    ]},
+
+    {"type_id":"5", 
+    "type_name":"Center Related",
+    "subtype":[
+
+        {"subtype_id":"13", 
+        "subtype_name":"High Waiting Time ",
+        "type_id":"5"}
+        ,
+        {"subtype_id":"14", 
+        "subtype_name":"Facilities not available ",
+        "type_id":"5"}
+        ,
+        {"subtype_id":"15", 
+        "subtype_name":"Behaviour Related ",
+        "type_id":"5"}
+        ,
+        {"subtype_id":"16", 
+        "subtype_name":"Late Opening/Early Closing",
+        "type_id":"5"}
+
+    ]},
+
+    {"type_id":"6", 
+    "type_name":"Test Query",
+    "subtype":[
+        
+        {"subtype_id":"17", 
+        "subtype_name":"Have Prescription ",
+        "type_id":"6"},
+
+        {"subtype_id":"18", 
+        "subtype_name":"Do not have Prescription ",
+        "type_id":"6"}
+    ]}
+]

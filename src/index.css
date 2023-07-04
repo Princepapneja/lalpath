@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+.container{
+  @apply max-w-[1260px] w-full m-auto px-5
+}
+@tailwind utilities;
+
+
+@layer components {
+    .primary-bg-color {
+      @apply bg-[#FDCC4E];
+    }
+    .secondry-bg-color {
+        @apply bg-[#0047AE];
+      }
+  }
+
+ body{
+  background-color: #F1F1F1;
+  scroll-behavior: smooth;
+ }
+
+ .active{
+  color: #0047AE;
+  text-decoration: underline;
+ }
+
