@@ -10,19 +10,8 @@ import ContactUs from "./Pages/ContactUs";
 
 function App() {
   return (
-    <Router>
-      // <div className="bg-primary ">
-      //   <Routes>
-      //     <Route path="/" element={<Home />} />
-      //     <Route path="/doctors" element={<Doctor />} />
-      //     <Route path="/business-partnership" element={<BusinessPartneship />}/>
-      //     <Route path="/download-report" element={<ReportDownload />} />
-      //     <Route path="/book-a-test" element={<BookTest />} />
-      //     <Route path="/contactus" element={<ContactUs />} />
-      //   </Routes>
-      //   <Footer />
-      // </div>
-    </Router>
+   <></>
+  
   );
 }
 
